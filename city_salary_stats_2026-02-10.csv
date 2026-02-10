@@ -1,0 +1,349 @@
+City,Avg_Salary,Job_Count
+Aberdeen,94652.715,2
+Aiea,175966.12,1
+Alamogordo,63662.86,1
+Albany,73697.04,1
+Alpharetta,89383.39,3
+Annandale,72239.09,1
+Annapolis,77802.63,2
+Archer,60132.56,1
+Arlington,93542.955,2
+Atlanta,100614.246,10
+Auburn,90173.22,1
+Augusta,103007.89000000001,2
+Aurora,72256.88,2
+Austin,119252.02,1
+Avondale,83768.44,1
+Bakersfield,72958.09,1
+Baltimore,70773.24,1
+Barre,72185.78,1
+Baton Rouge,63240.286666666674,3
+Beachwood,118954.66,1
+Beaver Creek,132839.62,1
+Bee Cave,78280.29,1
+Bellevue,71264.94,2
+Bentonville,105813.98,1
+Bethesda,130330.655,2
+Biddeford,68931.87,1
+Binghamton,73248.88,1
+Birmingham,69282.695,2
+Bismarck,49768.56,1
+Bloomington,94030.19,1
+Bloomsburg,74089.41,1
+Boerne,69276.28,1
+Boise,51284.33,1
+Bonnie,54527.675,2
+Boston,106461.56,3
+Bowling Green,71444.27,1
+Bozeman,65186.38,1
+Brentwood,80559.24,1
+Bridgeport,71900.99,1
+Bristol,72142.01,1
+Brockton,76626.29,1
+Broken Arrow,71989.23,1
+Brunswick,76780.49,1
+Buda,120868.61,1
+Buffalo,76287.53,1
+Burlington,67871.66,1
+California,126861.215,2
+Cameron Village,97638.86,1
+Cammack Village,93349.45000000001,2
+Campbell,100983.04333333333,3
+Carlsbad,94121.98,1
+Carrollton,72437.22,1
+Carson Mall,54707.53,1
+Cary,61518.42,1
+Castlewood,87858.59,1
+Cedar,66164.66500000001,2
+Cedar Park,114157.81,1
+Cedar Rapids,93017.44,1
+Charleston,62969.685,2
+Charleston Air Force Base,73449.08,1
+Charlotte,79474.05333333333,9
+Chattanooga,75128.66,1
+Chesapeake,68913.34,1
+Cheyenne,72089.88,1
+Chicago,77139.3275,4
+Chico,76691.06,1
+Chisolm,55309.479999999996,2
+Circle Pines,199274.84,1
+Clarksville,81701.94,1
+Clifford,85621.75,1
+Clinton,71589.61,1
+Cloverdale,80982.065,2
+Colorado Springs,72690.01,1
+Columbia,84916.20000000001,2
+Concord,71991.09,1
+Conestee,71530.71,1
+Converse,134193.4,1
+Coppell,115653.27,1
+Country Club,77848.79,1
+Covington,71802.19,1
+Crabtree Valley,89214.68,1
+Crystal,67981.88500000001,2
+Custom House,71488.985,2
+Dahlgren,114619.8,1
+Davidson,146236.52,1
+Denver,77742.43,2
+Derry,69979.67,1
+Des Moines,69032.995,2
+Detroit,73877.61,1
+Dinuba,97488.22,1
+Downey,97884.06,1
+Druid,101287.64,1
+Duluth,71785.13,1
+Duraleigh,80029.5,1
+Durham,103966.115,2
+East Dubuque,71595.21,1
+East Lake-Orient Park,115347.27,1
+Eastside,89445.63,1
+Edgewood,51694.34,1
+Edison,75303.82,1
+El Segundo,96629.06,1
+Elkins Park,102724.16,1
+Elon,72654.04,1
+Englewood,98240.84999999999,3
+Erie,74101.0,1
+Eugene,65387.36,1
+Fairfax,94896.91,1
+Findlay,124104.35,1
+Five Points,88430.0575,4
+Flint,75264.84,1
+Florham Park,66180.91,1
+Flushing,78581.35,1
+Fort George G Meade,99770.88,1
+Frankfort,66213.855,2
+Frederick,74145.47,1
+Fresno,80764.02,1
+Gaithersburg,74236.31,1
+Garden City,75057.69,1
+Garner,86311.4,1
+Gary,71078.03,1
+Glendale,72196.2025,4
+Grand Central,168052.0625,8
+Grand Island,70953.15,1
+Grand Rapids,78097.68,1
+Grandview,220611.44,1
+Grandview Heights,91143.79,4
+Greeley,73876.9,1
+Green Bay,71274.34,1
+Greenfield Manor,115383.13,1
+Greensboro Ndc,71302.62,1
+Greenville,69285.86,1
+Gresham,73015.23,1
+Gulfport,70200.45,1
+Hagerstown,66961.41,1
+Hammond,75052.17,1
+Harrisburg,68045.22,1
+Hartford,91499.45,2
+Hattiesburg,68175.26,1
+Hayes Valley,91012.12,1
+Haymount,86550.19,1
+Helena,62175.68,2
+Henderson,72792.68,1
+High Point,69361.02,1
+Highland Heights,103868.64,1
+Highland Park,83297.0,1
+Hondo,82808.06,1
+Honolulu,64674.34,1
+Hot Springs,69368.77,1
+Houston,102701.72,1
+Huntersville,90980.44,1
+Huntington,75164.855,2
+Huntsville,87180.75,2
+Hutto,112043.69,1
+Idaho City,69027.59,1
+Idaho Falls,68741.88,1
+Indiana,65701.84,1
+Indianapolis,85066.08499999999,2
+International,83857.91,2
+Iowa,78003.96,1
+Irondale,87148.1,1
+Jackson,62236.807499999995,4
+Jacksonville,72269.47,1
+Jersey City,76411.82,1
+Jonesboro,71385.9,1
+Juneau,75028.48,1
+K-Town,138587.52,1
+Kansas City,111780.49333333333,3
+Keller,52048.83,1
+Kenosha,68534.22750000001,4
+Keyser,90946.52,1
+Kyle,127738.8,1
+La Chute,67888.205,2
+Lake Campbell,204159.72,1
+Lake Charles,71136.35,1
+Lake Worth,74009.34,1
+Lansing,69260.565,2
+Laramie,67144.94,1
+Laredo,69146.98,1
+Largo,71631.54,1
+Las Vegas,82088.73333333334,3
+Lathrup Village,61787.71,1
+Lawrenceville,69952.65,1
+Lawton,68762.27,1
+Leander,122148.37,1
+Lexington,73488.8,1
+Lexington Park,129312.12,1
+Lincoln,70023.87,1
+Loehmanns Plaza,93445.46,1
+Long Island City,77899.44,1
+Lonsdale,78304.70999999999,2
+Los Angeles,75129.59,1
+Lynchburg,67735.35,1
+Madison,53003.27,1
+Manchester,72000.91,1
+Marysville,114634.02,1
+Mc Lean,132612.89500000002,2
+Mccullers,80029.5,1
+Melbourne,74243.75,1
+Memphis,73982.45,1
+Mendota,179205.53,1
+Menomonie,74077.41,1
+Meridian,68879.83,1
+Merrifield,120651.05,1
+Mesa,68557.2,1
+Miami,76218.59,1
+Milford,76385.01,1
+Mililani,76707.81,1
+Minneapolis,162638.53,2
+Missoula,70002.9,1
+Mobile,67484.59,1
+Mongmong,58398.37,1
+Montgomery,108031.44,1
+Montpelier,50889.55,1
+Morgantown,74449.94,1
+Morrisville,80029.5,1
+Moscow,70604.98,1
+Mount Pleasant,70918.64,1
+Nashville,74167.99,5
+Neuse,80029.5,1
+New Braunfels,128591.09,1
+New Haven,72614.28,1
+New York City,124602.2,1
+Newark,76219.61,1
+Norco,90679.95,1
+North Hills,80029.5,1
+Northlake,77079.295,2
+Northridge,80596.82,1
+Ny State Campus,58313.73,1
+Oak Hill,153915.58,1
+Oakland,63379.24666666667,3
+Oakwood,107432.25,1
+Ogden,70381.72,1
+Oklahoma City,73310.845,4
+Olympia,71015.02,1
+Omaha,86594.69,1
+Orem,80821.73,1
+Orenco,37476.93,1
+Oxford,81010.87,1
+Park Ridge,105364.98,1
+Parkersburg,71162.95,1
+Paterson,79168.15,1
+Peoria,73987.03,1
+Pflugerville,112409.62,1
+Philadelphia,94602.405,2
+Phoenix,49436.16,1
+Pico Heights,89056.43,2
+Pierre,75780.48999999999,2
+Pimmit,164763.29499999998,2
+Pittsburg,74193.42,1
+Pleasanton,79552.47,1
+Plymouth,76173.03,1
+Pocatello,65808.51,1
+Portland,77897.67,2
+Portola Valley,278141.9,1
+Poughkeepsie,91297.16,1
+Prichard,69894.45,2
+Prince,177524.44,1
+Princeton,85860.095,2
+Racine,71366.77,1
+Raleigh,80029.5,1
+Raynham Center,75615.43,1
+Reading,96652.29,1
+Redmond,93692.28,1
+Redstone Arsenal,126855.98,1
+Richmond,69441.18,1
+Ridgecrest,80884.65,1
+Rochester,70878.37666666666,3
+Rock Hill,70474.61,1
+Roswell,68819.09,1
+Round Rock,116387.73,1
+Sacramento,76794.955,2
+Saint Cloud,72745.7,1
+Saint Louis,120647.64499999999,2
+Saint Paul,109440.97,2
+Saint Petersburg,73440.81,1
+Salem,58268.935,2
+San Antonio,78733.16,4
+San Diego,88025.91,2
+San Francisco,128208.44,1
+San Luis Obispo,80976.8,1
+San Marcos,125948.04,1
+San Ramon,89072.11,1
+Sandy Plains,85105.13,1
+Santa Monica,107448.13,1
+Savage,132624.69,1
+Savannah,72245.35,1
+Schertz,130579.74,1
+Schiller Park,96447.17,2
+Scottsdale,70449.54,1
+Seguin,132743.12,1
+Shoreview,185542.03,1
+Sioux Falls,69635.55,1
+SoMa,138720.8,1
+Solms,165955.98,1
+South Bend,76390.55,1
+South Boston,95958.05,1
+Southaven,94416.725,2
+Sparks,72564.58,1
+Spokane,69504.78,1
+Springfield,82927.78,4
+Stanford,134884.97,1
+Sterling Heights,71570.63,1
+Stillwater,184443.28,1
+Strathmoor Manor,74444.125,4
+Streetsboro,92160.76,1
+Strongsville,86493.91,1
+Syracuse,71565.79,1
+Talcott Village,56156.93,1
+Tarawa,123193.18,1
+Taylor,118112.38,1
+Teaneck,114864.7,1
+Tempe,87567.655,2
+Terre Haute,72557.73,1
+Textile Finance,90015.55,1
+The Woodlands,72721.55,1
+Thornton,73690.22,1
+Topeka,62139.165,2
+Towson,72621.69,1
+Trammells,86418.63,1
+Trenton,54770.44,1
+Tumwater,52760.9,1
+US,81935.95999999999,2
+Universal City,139008.44,1
+Uptown,79008.43333333333,3
+Valdosta,71314.73,1
+Village,73461.2,1
+Village of Los Ranchos,88010.12,1
+Virginia Beach,125119.14666666668,3
+Wake Island,48049.97,1
+Warwick,72837.2,1
+Washington,94079.08499999999,2
+"Washington, D.C.",95429.54285714286,14
+Wayzata,70338.17,1
+Wellston,91822.7225,4
+West Biloxi,70603.5,2
+West Chester,72668.94,1
+West Lake Hills,90780.75,1
+West Loop,169208.52,1
+West Raleigh,86837.58,1
+West Springfield,131479.95,1
+Westlake,131132.33,1
+Whitewater,79881.34,1
+Wichita,88547.49,4
+Wilders Grove,80029.5,1
+Willernie,246721.55,1
+Williams,67444.45,1
+Wilmington,72521.41,1
+Woonsocket,127377.15,1
